@@ -1,1 +1,3 @@
 # CryptoClustering
+
+This project applies unsupervised machine learning techniques to identify cryptocurrency clusters based on short-term price changes. Using K-Means and PCA, I analyzed how dimensionality reduction impacts cluster formation and interpretability. The challenge involved preprocessing data, optimizing k values through the Elbow method, and visualizing cluster comparisons with and without PCA.
